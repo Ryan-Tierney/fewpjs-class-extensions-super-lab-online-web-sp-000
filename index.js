@@ -14,6 +14,6 @@ class Deciduous extends Tree {
   contsructor(species, name) {
     super(species);
     this.name = name; 
-  }
+    }
   }
 
