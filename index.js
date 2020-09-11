@@ -11,5 +11,5 @@ class Tree {
 } 
 
 class Deciduous extends Tree { 
-  
+  contsructor(species, name) 
 
